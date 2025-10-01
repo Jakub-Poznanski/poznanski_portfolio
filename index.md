@@ -1,6 +1,7 @@
----
-Home: Jakub Poznanski
----
+---------------------
+Home  
+Jakub Poznanski
+---------------------
 Welcome to my professional portfolio! I am a physics major with an astrophysics minor graduating from UConn in may 2026. I am passionate about programming, electronics, and mechatronics.   
 
 ### About Me
