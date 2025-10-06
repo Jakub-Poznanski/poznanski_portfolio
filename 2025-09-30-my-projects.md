@@ -1,7 +1,7 @@
---------------------------------------------
+---
 title: "More than just Astronomy"
 date: 2025-09-30
----------------------------------------------
+---
 
 During my undergraduate career, I have worked on a wide range of projects, from astronomy research to electrical engineering design.  
 
